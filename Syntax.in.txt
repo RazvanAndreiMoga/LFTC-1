@@ -1,5 +1,6 @@
 Syntax:
 
+
 1.Variable Declarations:
 
 -> <declaration> ::= IDENTIFIER ":" <type>;
